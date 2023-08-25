@@ -7,4 +7,6 @@ dataclasses
 catboost
 xgboost
 dill
+flask
+pickle
 -e .
